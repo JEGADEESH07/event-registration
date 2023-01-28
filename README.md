@@ -5,34 +5,23 @@ To design, develop and deploy a web application for event registration.
 
 ## DESIGN STEPS:
 
-### Step 1:
+### Step 1: Create a new frame.
+### Step 2: Select any one preset size of your choice.
+### Step 3: Select the shapes you need.
+#### Step 4: Import images as needed
+#### Step 5: Create pages based on your need and link them
+### Step 6: Validate the HTML and CSS code.
 
-
-### Step 2:
-
-
-### Step 3:
-
-
-### Step 4:
-
-
-### Step 5:
-
-### Step 6:
-
-Validate the HTML and CSS code.
-
-### Step 6:
 
 Publish the website in the given URL.
 
 ## DESIGN:
-
-## PROGRAM :
+![output](Screenshot%20from%202023-01-28%2010-30-48.png)
 
 ## OUTPUT:
+![output](Screenshot%20from%202023-01-28%2010-30-22.png)
 
 
 ## Result:
 
+The program to design, develop and deploy a web application for event registration is completed successfully.
